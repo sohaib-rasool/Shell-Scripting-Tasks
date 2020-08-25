@@ -1,0 +1,8 @@
+/home/emumba/Documents/Training/tmp1/abc.txt:1:hello, I am sohaib
+/home/emumba/Documents/Training/tmp1/abc.txt:6:hello
+/home/emumba/Documents/Training/new.txt:1:hello, I am sohaib
+/home/emumba/Documents/Training/new.txt:6:hello
+/home/emumba/Documents/Training/tmp/new1.txt:1:hello world
+Binary file /home/emumba/Documents/Training/tmp/zip.tar matches
+/home/emumba/Documents/Training/tmp/new.txt:1:hello, I am sohaib
+/home/emumba/Documents/Training/tmp/new.txt:6:hello
